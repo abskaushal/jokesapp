@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UiLib</string>
+    <string name="joke_of_the_day">Joke of the day</string>
+    <string name="forgot_my_joke">Oops!!! I forgot my Joke</string>
+</resources>
